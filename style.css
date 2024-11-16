@@ -1,0 +1,14 @@
+body {
+ text-align: center;
+ border: solid;
+ border-radius: 90px;
+ background-color: slateblue;
+ font-family: trebuchet MS;
+}
+.plan{
+border: solid 10px;
+padding-left: 25px;
+padding-right: 25px;
+padding-bottom: 20px;
+text-align: left;
+}
