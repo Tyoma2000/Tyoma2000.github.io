@@ -18,3 +18,5 @@ text-align: left;
 border:solid 10px;
  display:flex;
 }
+.center{
+ text-align:center;
