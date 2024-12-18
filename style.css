@@ -19,4 +19,4 @@ border:solid 10px;
  display:flex;
 }
 .center{
- text-align:center;
+ justify-content:center;
