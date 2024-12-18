@@ -11,9 +11,9 @@ padding-left: 25px;
 padding-right: 25px;
 padding-bottom: 20px;
 text-align: left;
-display:grid
- grid-template-rows:repeat(2,50px)
+
 }
 .item{
 border:solid 10px;
+ display:flex;
 }
