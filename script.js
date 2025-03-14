@@ -1,1 +1,1 @@
-GetElementById
+GetElementById("like)
